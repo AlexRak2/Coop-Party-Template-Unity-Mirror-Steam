@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35a98cf24352f1f4d99d7a33c0b4d1e0, type: 3}
+  m_Name: Nametag_Marker
+  m_EditorClassIdentifier: 
+  id: 0
+  markerLocalObj: {fileID: 3472063188260564299, guid: d2b18e33b98b06f489aaa75955227efc,
+    type: 3}
+  markerWorldObj: {fileID: 0}
+  lifeDuration: 0
+  unlimitedLife: 1
+  minFadeAmount: 0
+  fadeByDotProduct: 0
+  fadeByAim: 0
